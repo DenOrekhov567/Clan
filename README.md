@@ -1,0 +1,2 @@
+# Clan
+Плагин для PowerNukkitX
