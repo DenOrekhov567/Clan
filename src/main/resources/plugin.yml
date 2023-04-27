@@ -1,0 +1,11 @@
+name: Clan
+
+main: dev.denny.clan.ClanPlugin
+api: 1.0.0
+version: 1.0-release
+
+depend:
+  - DataManager
+  - Database
+  - Pattern
+  - Account
